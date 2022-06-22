@@ -1,4 +1,1 @@
- echo '#!/bin/bash'> school 
-echo "School is cool">>school
-echo '#!/bin/bash'> alx
-echo "ALX SCHOOL">> alx
+school
