@@ -2,3 +2,5 @@
 rmdir /tmp/my_first_directory
 cd -
 cd -
+#!/bin/bash
+rmmdir /tmp/my_first_directory
