@@ -1,2 +1,2 @@
-This read me contains shell redirections 
+This readme contains shell redirections
 
